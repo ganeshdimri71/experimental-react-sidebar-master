@@ -1,0 +1,19 @@
+
+td, th{
+    word-wrap: break-word;
+    width: 500px;
+}
+
+/* table {
+    display: inline-block;
+    height: 70%;
+    overflow: auto;
+}
+
+.alignment{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+} */
+
